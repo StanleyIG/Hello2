@@ -1,0 +1,6 @@
+<?php
+<<<<<<< HEAD
+=======
+session_start();
+>>>>>>> master
+echo "Hello, world!";
