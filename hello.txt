@@ -16,4 +16,9 @@ cbbchjbckdckdbc
 kdhiudjckc
 
 Hello, git!
+
 Hello, git!_2
+=======
+Hello, git!_2
+Hello, git rebase!
+
